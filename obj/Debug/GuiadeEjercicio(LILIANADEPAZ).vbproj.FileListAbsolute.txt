@@ -1,0 +1,12 @@
+C:\Users\derod\source\repos\GuiadeEjercicio(LILIANADEPAZ)\bin\Debug\GuiadeEjercicio(LILIANADEPAZ).exe.config
+C:\Users\derod\source\repos\GuiadeEjercicio(LILIANADEPAZ)\bin\Debug\GuiadeEjercicio(LILIANADEPAZ).exe
+C:\Users\derod\source\repos\GuiadeEjercicio(LILIANADEPAZ)\bin\Debug\GuiadeEjercicio(LILIANADEPAZ).pdb
+C:\Users\derod\source\repos\GuiadeEjercicio(LILIANADEPAZ)\bin\Debug\GuiadeEjercicio(LILIANADEPAZ).xml
+C:\Users\derod\source\repos\GuiadeEjercicio(LILIANADEPAZ)\obj\Debug\GuiadeEjercicio(LILIANADEPAZ).vbproj.AssemblyReference.cache
+C:\Users\derod\source\repos\GuiadeEjercicio(LILIANADEPAZ)\obj\Debug\GuiadeEjercicio(LILIANADEPAZ).vbproj.SuggestedBindingRedirects.cache
+C:\Users\derod\source\repos\GuiadeEjercicio(LILIANADEPAZ)\obj\Debug\GuiadeEjercicio_LILIANADEPAZ_.Resources.resources
+C:\Users\derod\source\repos\GuiadeEjercicio(LILIANADEPAZ)\obj\Debug\GuiadeEjercicio(LILIANADEPAZ).vbproj.GenerateResource.cache
+C:\Users\derod\source\repos\GuiadeEjercicio(LILIANADEPAZ)\obj\Debug\GuiadeEjercicio(LILIANADEPAZ).vbproj.CoreCompileInputs.cache
+C:\Users\derod\source\repos\GuiadeEjercicio(LILIANADEPAZ)\obj\Debug\GuiadeEjercicio(LILIANADEPAZ).exe
+C:\Users\derod\source\repos\GuiadeEjercicio(LILIANADEPAZ)\obj\Debug\GuiadeEjercicio(LILIANADEPAZ).xml
+C:\Users\derod\source\repos\GuiadeEjercicio(LILIANADEPAZ)\obj\Debug\GuiadeEjercicio(LILIANADEPAZ).pdb
